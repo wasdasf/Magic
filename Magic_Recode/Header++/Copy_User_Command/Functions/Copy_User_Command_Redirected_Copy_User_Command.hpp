@@ -8,7 +8,7 @@ void __fastcall Redirected_Copy_User_Command(void* Unknown_Parameter_1, void* Un
 		{
 			if (Menu_Select::Game_Identifier == 0)
 			{
-				return (void*)((unsigned __int32)GetModuleHandleW(L"client.dll") + 1338695);
+				return (void*)((unsigned __int32)GetModuleHandleW(L"client.dll") + 1340913);
 			}
 
 			unsigned __int8 Copy_User_Command_In_Create_Move_Return_Location_Bytes[4] =
