@@ -655,7 +655,7 @@ unsigned __int32 __stdcall Redirected_Present(IDirect3DDevice9* Direct_3_Dimensi
 				{
 					if (Menu_Select::Game_Identifier == 0)
 					{
-						return (void*)((unsigned __int32)GetModuleHandleW(L"client.dll") + 1936491);
+						return (void*)((unsigned __int32)GetModuleHandleW(L"client.dll") + 1940437);
 					}
 
 					unsigned __int8 Previous_Buttons_In_Jump_Check_Bytes[3] =
