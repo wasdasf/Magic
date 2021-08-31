@@ -752,7 +752,7 @@ void __fastcall Redirected_Copy_User_Command(void* Unknown_Parameter_1, void* Un
 					{
 						if (Menu_Select::Game_Identifier == 0)
 						{
-							return (void*)((unsigned __int32)GetModuleHandleW(L"client.dll") + 601456);
+							return (void*)((unsigned __int32)GetModuleHandleW(L"client.dll") + 602768);
 						}
 						else
 						{
