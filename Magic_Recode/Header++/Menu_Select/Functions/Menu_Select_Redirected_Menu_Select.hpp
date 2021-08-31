@@ -8,7 +8,7 @@ void __cdecl Redirected_Menu_Select(void* Data)
 		{
 			if (Game_Identifier == 0)
 			{
-				return (char*)((unsigned __int32)GetModuleHandleW(L"client.dll") + 5195824);
+				return (char*)((unsigned __int32)GetModuleHandleW(L"client.dll") + 1377948);
 			}
 
 			unsigned __int8 Menu_Name_Bytes[4] =
