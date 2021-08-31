@@ -33,7 +33,7 @@ void __fastcall Redirected_Copy_User_Command(void* Unknown_Parameter_1, void* Un
 			{
 				if (Menu_Select::Game_Identifier == 0)
 				{
-					return (void*)((unsigned __int32)GetModuleHandleW(L"client.dll") + 5007112);
+					return (void*)((unsigned __int32)GetModuleHandleW(L"client.dll") + 5015784);
 				}
 
 				unsigned __int8 Controlled_Creature_Container_Bytes[6] =
